@@ -1,5 +1,5 @@
 var
-	terms = ['TPS report', 'audit', 'fax']
+	terms = ['TPS report', 'fax', '  auto', '  automatic', '  autocomplete', 'autocompletions']
 
 $(init)
 
