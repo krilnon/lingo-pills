@@ -1,3 +1,13 @@
 #text-area {
 	min-height: 30em;
 }
+.ui-widget {
+  font-size: 1.0em;
+}
+.ui-menu .ui-menu-item a {
+  padding: 1px 1px;
+  line-height: 1.0;
+}
+.ui-autocomplete {
+  width: auto !important;
+}
